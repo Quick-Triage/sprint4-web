@@ -27,3 +27,10 @@ A triagem será acessível pelo **site oficial do Hospital Infantil Sabará**, p
 - **JavaScript** – Lógica da aplicação
 - **HTML5 & CSS3** – Estruturação e estilo
 
+## Integrantes
+
+- Matheus Caposse
+- Henrique Pacífico
+- Caio Berardo
+
+
