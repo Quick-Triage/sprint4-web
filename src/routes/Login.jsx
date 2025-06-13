@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/ContatoStyled.css';
+import '../styles/LoginStyled.css';
 import usuarios from '../../usuario'; // nosso "banco fake"
 import { useNavigate } from 'react-router-dom';
 
