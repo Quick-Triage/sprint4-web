@@ -4,7 +4,7 @@ import Header from "./components/Header"
 import Nav from "./components/Nav"
 import Home from './routes/Home';
 import Triagem from './routes/Triagem';
-import Contato from './routes/Contato';
+import Login from './routes/Login';
 import PageNotFound from './error/PageNotFound';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/triagem" element={<Triagem/>}/>
-        <Route path="/contato" element={<Contato/>}/>
+        <Route path="/login" element={<Login/>}/>
         <Route path="*" element={<PageNotFound/>}/>
       </Routes>
       <Footer/>

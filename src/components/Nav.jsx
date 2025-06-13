@@ -13,7 +13,7 @@ const Nav = () => {
             <Link to="/triagem">Triagem Rapida</Link>
             <Link to="">Canal de Apoio aos Pais <br /> <p>011 94483-6237</p></Link>
             <Link to="">Institucional</Link>
-            <Link to="/contato">Login</Link>
+            <Link to="/login">Login</Link>
             
             <div className='buscar'><a href=""><img className='icon' src="/lupa-icon.png"/></a></div>
         </nav>
